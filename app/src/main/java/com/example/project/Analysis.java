@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.google.firebase.auth.FirebaseAuth;
+
 public class Analysis extends AppCompatActivity {
 
     TextView res;
@@ -44,15 +46,21 @@ public class Analysis extends AppCompatActivity {
         reg.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                  Intent p=new Intent(Analysis.this,MainActivity.class);
-//                p.putExtra("result",o);
-                  startActivity(p);
+//                  Intent p=new Intent(Analysis.this,MainActivity2.class);
+//                  p.putExtra("result",o);
+//                  Intent z=new Intent(Analysis.this,MainActivity.class);
+//                  startActivity(z);
+//                public void logout(View view) {
+                    FirebaseAuth.getInstance().signOut();
+                    startActivity(new Intent(getApplicationContext() , Login.class));
+                    finish();
+//                }
             }
         });
 
     }
  public void barra(View v){
-        Intent i=new Intent(Analysis.this,splash.class);
+        Intent i=new Intent(Analysis.this,Survey.class);
         startActivity(i);
     }
 }
