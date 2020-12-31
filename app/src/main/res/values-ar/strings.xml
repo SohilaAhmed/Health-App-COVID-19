@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">الاميل</string>
+    <string name="password">كلمة السر</string>
+    <string name="REGISTER">" تسجيل"</string>
+    <string name="createnewaccount">"انشاء حساب جديد "</string>
+    <string name="AlreadyRegistered">لديك حساب؟ تسجيل الدخول</string>
+    <string name="Login">تسجيل الدخول</string>
+    <string name="NewHere">ليس لديك حساب؟ انشاء حساب</string>
+    <string name="Logout">تسجيل الخروج</string>
+    <string name="Welcome">اهلا بك</string>
+    <string name="GetStart">ابدأ</string>
+    <string name="tempq">حرارتك كام تقريبا؟</string>
+    <string name="tempa1">طبيعية (37.5)</string>
+    <string name="tempa2">متوسطة (35-37.5)</string>
+    <string name="tempa3">مرتفعة (فوق 37.6 )</string>
+    <string name="headq">بتعاني من صداع مؤلم؟</string>
+    <string name="heada1">لأ</string>
+    <string name="heada2">صداع عادي على اخر اليوم</string>
+    <string name="heada3">أيوة وكمان بحرقان في ضهر العين</string>
+    <string name="cufq">طب إيه أخبار الكحة؟</string>
+    <string name="cufa1">معنديش</string>
+    <string name="cufa2">شوية يعني مع بلغم</string>
+    <string name="cufa3">كحة جافة كدة شبه الشرقان</string>
+    <string name="brtq">عندك مشاكل في التنفس؟</string>
+    <string name="brta1">لاع</string>
+    <string name="brta2">بنهج بس لو جريت ولا حاجة</string>
+    <string name="brta3">اه..من عير مجهود حتى</string>
+    <string name="prgq">في إسهال أو ترجيع؟</string>
+    <string name="prga1">لا الحمدلله</string>
+    <string name="prga2">عندي شوية عسر هضم</string>
+    <string name="prga3">اه بقالي أكتر من 4 أيام</string>
+    <string name="sntq">إيه أخبار حاسة التذوق و الشم؟</string>
+    <string name="snta1">زالفل</string>
+    <string name="snta2">مناخيري ساعات بتتسد بس</string>
+    <string name="snta3">مش بشم او استطعم..ولو حصل بصعوبة</string>
+    <string name="bpq">في ألام في الجسم بلا سبب؟</string>
+    <string name="bpa1">تؤتؤ</string>
+    <string name="bpa2">بعد يوم طوبل من المرجحة يمين وشمال</string>
+    <string name="bpa3">اه مش عارف من ايه</string>
+    <string name="sub">كدة تمام</string>
+    <string name="tempan1">: معقولة</string>
+    <string name="tempan2">: شوية مشروبات سخنة واتدفى كويس</string>
+    <string name="tempan3">: خد حاجة من دول..بانادول ادفانس/اكسترا أو بارامول</string>
+    <string name="headan1">: مش وحش</string>
+    <string name="headan2">: لا دة عادي متقلقش</string>
+    <string name="headan3">: واظب على بانادول 3 مرات في اليوم لمدة أسبوعبن</string>
+    <string name="cufan1">: الحمدلله معندكش</string>
+    <string name="cufan2">: لا تقلق..دول حبة برد او من بيئة فبها دخان ولا حاجة</string>
+    <string name="cufan3">: بيتهيألي تستشير طبيب.. لا بجد كلم دكتور دلوقتي</string>
+    <string name="brtan1">: اصحى للياقة😉</string>
+    <string name="brtan2">: داا طبيعي اه.. اتمرن أكتر على طول النفس هتبقى تمام</string>
+    <string name="brtan3">: انت لازم تعمل جلسات اكسجين ..قاعدلي هنا بتسأل؟</string>
+    <string name="prgan1">: مفيش الحمدلله ربنا يحفظك</string>
+    <string name="prgan2">: ممكن تشرب رايب أو بيريل هيساعدوا</string>
+    <string name="prgan3">: يلاهوي..طب واظب يبني على المضاد الحيوي دة..زيثرون</string>
+    <string name="sntan1">: هييه بتشم وتاكل</string>
+    <string name="sntan2">: مشاكل جيوب أنفية..حاسس بيك والله</string>
+    <string name="sntan3">":دااا مش كويس أوي.. خد زيثرون مرة في اليوم و نوستامين قطرات أنف 3 مرات "</string>
+    <string name="bpan1">: عاااش يا وحش</string>
+    <string name="bpan2">: ريح شوية ونام كويس</string>
+    <string name="bpan3">: خد 10 قطرات من في دروب يوميا</string>
+    <string name="genad">وخليك فاكر.. حافظ على مناعتك بأكل البرتقان أو اي مصدر لفيتامين سي..C-ZINC مثلا</string>
+    <string name="gc">حالة ممتازة</string>
+    <string name="mc">حالة متوسطة..اتجدعن</string>
+    <string name="cc">في السلانكاتيه</string>
+    <string name="rgq">عايز تحفظ بياناتك؟</string>
+    <string name="reg">تسجيل</string>
+ <string name="t">الحرارة</string>
+    <string name="h">الصداع</string>
+    <string name="c">الكحة</string>
+    <string name="b">التنفس</string>
+    <string name="p">الإسهال و الترجيع</string>
+    <string name="s">الشم و التذوق</string>
+    <string name="bp">آلام الجسد</string>
+<string name="noAn">جاوب على كل الأسئلة الأول</string>
+<string name="nob">لا شكرا 🖐</string>
+</resources>
